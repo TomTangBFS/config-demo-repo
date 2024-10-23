@@ -1,9 +1,9 @@
 spring:
   application:
-    name: config-client
+    name: shop-config-client
 
 server:
   port: 7777
   
 user:
-  role: dev-role
+  role: dev-role-shop
