@@ -6,4 +6,4 @@ server:
   port: 7777
   
 user:
-  role: dev-role-shop-new
+  role: dev-role-shop-new-newer
